@@ -1,12 +1,12 @@
 # steamdb-sales-scraping
 This project is a automation of scraping data from [SteamDB Sales](https://steamdb.info/sales/), export to BigQuery and connect to Google Sheets for analysis
 
-##Features
+### Features
 - **Web Scraping**: Automatically scrapes the latest sales data from SteamDB.
 - **Data Storage**: Uploads the scraped data to Google BigQuery to efficient storage, querying, and analysis.
 - **Easy Access and Sharing**: Exports the data to a Google Sheets spreadsheet to be easy to view and share.
 
-##Google Sheets
+### Google Sheets
   The data can be viewed [here](https://docs.google.com/spreadsheets/d/1rENYaWXQFyLi_DQuLipdig3HrbjhZvePaSuXeUxs6tk/edit?usp=sharing)
 
 ### ToDo
