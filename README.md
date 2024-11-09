@@ -9,9 +9,6 @@ This project is a automation of scraping data from [SteamDB Sales](https://steam
 ### Google Sheets
   The data can be viewed [here](https://docs.google.com/spreadsheets/d/1rENYaWXQFyLi_DQuLipdig3HrbjhZvePaSuXeUxs6tk/edit?usp=sharing)
 
-### ToDo
-- **Scheduling**: Actually the project does not include an automatic scheduling, soon I will make a Workflow to have up to date sales.
-
 ## Requisites
 To run this project, ensure you have the following:
 
@@ -30,3 +27,6 @@ To run this project, ensure you have the following:
     - Choose a project
     - Select a table or view
     - Click Connect
+
+### ToDo
+- **Scheduling**: Actually the project does not include an automatic scheduling, soon I will try to use Airflow to automate the entire process and have up to date sales.
